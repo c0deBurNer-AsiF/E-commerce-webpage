@@ -1,0 +1,16 @@
+.heading2{
+    display:flex;
+    justify-content:center;
+    align-self:flex-start;
+    font-weight:bold;
+    font-size:45px;
+    border:1px solid black;
+
+}
+.des-container img{
+    width:50vw;
+
+}
+
+
+   
